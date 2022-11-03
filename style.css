@@ -1,0 +1,28 @@
+.bodyBackground{
+    background-image: url(https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/mona-lisa.jpg);
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+    background-color: white;
+    border-width: 10px;
+    border-style: ridge;
+}
+body{
+    cursor: pointer;
+       
+}    
+h1{
+    color: red;
+    font-size: 40px;
+}
+button{
+    background-color: lawngreen;
+    border: none;
+    color: white;
+    font-size: 16px;
+    padding: 10px 42px;
+}
+input{
+    margin-right: 20px;
+}
